@@ -1,9 +1,5 @@
 ﻿{
-    "Logging": {
-        "LogLevel": {
-            "Default": "Debug",
-            "System": "Information",
-            "Microsoft": "Information"
-        }
-    }
+  "Generator": "generator.exe",
+  "Arbeitsordner": "C:\\Generator",
+  "Ausgabename": "ausgabe.txt"
 }
