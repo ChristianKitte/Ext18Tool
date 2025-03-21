@@ -10,7 +10,7 @@ Ursprünglich wurde das Programm eingesetzt, um den Zugriff auf durch andere Pro
 Problem ist hierbei, dass man die Programme selbst nicht kopieren will, eine einfaches Verknüpfen aber nicht dazu führt, die Ausgabe auf 
 den Ort der Verknüpfung zu lenken. Der Einsatz des Tools vereinfacht den Workflow in einigen Fällen ein wenig.
 
-Ein interessanter Fakt ist, dass große Teile des Quellcodes tatsächlich von einem LLM (Claude 3.7 Sonet) generiert worden sind. Der initial 
+Ein interessanter Fakt ist, dass große Teile des Quellcodes tatsächlich von einem LLM (**Claude 3.7 Sonet**) generiert worden sind. Der initial 
 verwendete Prompt war:
 
 ```
